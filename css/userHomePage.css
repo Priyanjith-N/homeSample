@@ -707,6 +707,10 @@ footer {
   .main-body h2 {
     font-size: 2rem;
   }
+  .slideBtn {
+    max-width: 1.5rem;
+    max-height: 1.5rem;
+  }
 }
 @media (min-width: 1537px) {
   .catgoryDiv {
